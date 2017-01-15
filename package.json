@@ -1,0 +1,16 @@
+{
+  "name": "iso-language-utility",
+  "version": "1.0.0",
+  "description": "ISO language utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Radbourne",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ramda": "^0.23.0",
+    "x-ray": "^2.0.3"
+  }
+}
